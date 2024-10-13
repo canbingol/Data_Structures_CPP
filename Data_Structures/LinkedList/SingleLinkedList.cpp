@@ -1,5 +1,5 @@
 #include <iostream>
-#include "../include/SingleLinkedList.h"
+#include "SingleLinkedList.h"
 
 SingleLinkedList::SingleLinkedList() : root(nullptr) {}
 
