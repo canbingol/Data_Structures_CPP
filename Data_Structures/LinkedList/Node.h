@@ -1,13 +1,14 @@
 #ifndef NODE_H
 #define NODE_H
 
-class Node {
+class Node
+{
 public:
-    int data;         
-    Node* next;      
-    Node* prev;      
+    int data;
+    Node *next;
+    Node *prev;
 
-    Node(int val);   
+    Node(int val);
 };
 
 #endif // NODE_H
