@@ -1,0 +1,8 @@
+# ninja log v6
+14	82	7527064747686755	CMakeFiles/Data_Structures_CPP.dir/Data_Structures/LinkedList/Node.cpp.obj	d3c5d096899848f1
+21	292	7527064747756762	CMakeFiles/Data_Structures_CPP.dir/Data_Structures/LinkedList/SingleLinkedList.cpp.obj	dc8c04baa699b627
+56	299	7527064748106755	CMakeFiles/Data_Structures_CPP.dir/Data_Structures/Tree/BinaryTree.cpp.obj	c0661a01de0f5c65
+3	306	7527064747576748	CMakeFiles/Data_Structures_CPP.dir/Data_Structures/LinkedList/DoubleLinkedList.cpp.obj	99ea0ab288e819db
+64	328	7527064748186753	CMakeFiles/Data_Structures_CPP.dir/Data_Structures/Tree/Node.cpp.obj	3896b91704d06ef3
+33	341	7527064747876754	CMakeFiles/Data_Structures_CPP.dir/Data_Structures/SortingAlgorithms/InsertionSort.cpp.obj	896f5088384e8313
+10	247	7527088452857928	CMakeFiles/Data_Structures_CPP.dir/Data_Structures/SortingAlgorithms/SelectionSort.cpp.obj	992c91eceda300d7
